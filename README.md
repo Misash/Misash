@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 
 <br />
 
@@ -26,7 +26,7 @@ Hi, I'm Misash, a computer science student at Universidad Catolica San Pablo - P
 <code><img height="20" src="https://w7.pngwing.com/pngs/699/658/png-transparent-bash-gnu-compiler-collection-terminal-linux-angle-rectangle-os-x.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+<br /><br /><br />
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Misash&show_icons=true&theme=gotham" alt="Misash" />
 
