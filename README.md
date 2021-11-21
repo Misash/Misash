@@ -4,7 +4,8 @@
 
 <br />
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media2.giphy.com/media/d6EHXrJlkd8IDIfdtL/giphy.gif?cid=790b76119eeeef0f54dfc3c91c4d039b9f4e4b50cd4974d8&rid=giphy.gif&ct=g" width="380" height="380" />
+  
   
 Hi, I'm [Misash]() a computer science student at Universidad Catolica San Pablo - Perú. I am a Blockchain enthusiast, I am currently working on [OPUS](https://github.com/Misash/OPUS-web3.0) a job offer platform for the Web 3.
 
@@ -26,7 +27,7 @@ Hi, I'm [Misash]() a computer science student at Universidad Catolica San Pablo 
 <code><img height="20" src="https://w7.pngwing.com/pngs/699/658/png-transparent-bash-gnu-compiler-collection-terminal-linux-angle-rectangle-os-x.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br /><br /><br />
+<br /><br /><br /><br /><br />
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Misash&show_icons=true&theme=gotham" alt="Misash" />
 
