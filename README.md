@@ -7,7 +7,7 @@
   <img align="right" alt="GIF" src="https://media2.giphy.com/media/d6EHXrJlkd8IDIfdtL/giphy.gif?cid=790b76119eeeef0f54dfc3c91c4d039b9f4e4b50cd4974d8&rid=giphy.gif&ct=g" width="40%" height="40%" />
   
   
-Hi, I'm [Misash]() a computer science student at Universidad Catolica San Pablo - Perú. I'm a Blockchain enthusiast, I am currently working on [OPUS](https://github.com/Misash/OPUS-web3.0) a job offer platform for the Web 3.
+Hi, I'm [Misash]() a computer science student at Universidad Catolica San Pablo - Perú. I'm a Blockchain enthusiast .
 
 - 💼 Contact me if you have same interesting!, [email](mailto:aaron.apaza@ucsp.edu.pe) :)
 - 💬 ask me about anything, i am happy to help;
