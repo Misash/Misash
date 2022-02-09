@@ -13,22 +13,37 @@ Hi, I'm [Misash]() a computer science student at Universidad Catolica San Pablo 
 - 💬 ask me about anything, i am happy to help;
 
 
-**languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" width="20" src="https://adventofhaskell.com/images/haskell.svg"></code>
-<code><img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png"></code>
-<code><img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/clion-1-logo.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/699/658/png-transparent-bash-gnu-compiler-collection-terminal-linux-angle-rectangle-os-x.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## Skill Set :muscle:
+
+These are some of the major technologies that I use or have worked on in the past:
+
+**Programming Languages**
+
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Haskell" title="Haskell" width="40px" src="https://adventofhaskell.com/images/haskell.svg">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+|--|--|--|--|
+
+**Libraries and Frameworks**
+
+
+
+<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png">
+|--|--|
+
+
+**Databases**
+
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|
+|--|
+
+**Tools**
+
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="CLion" alt="Clion" width="40px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/clion-1-logo.png">
+|--|--|--|--|--|
 
 <br /><br /><br />
-📈 my github stats
+
+## My Github Stats 📈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Misash&show_icons=true&theme=gotham" alt="Misash" />
 
 
