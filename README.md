@@ -27,7 +27,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 
 
-<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png">
+<img title="jQuery" alt="jQuery" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png">
 |--|--|
 
 **Cloud**
