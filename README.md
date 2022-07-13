@@ -1,8 +1,6 @@
 
-  <img alt="GIF" src="https://user-images.githubusercontent.com/70419764/178618222-3220c730-8f36-49f8-aeb2-188108d1433a.gif" width="100%" height="100%" />
+  <img alt="GIF" src="https://user-images.githubusercontent.com/70419764/178626489-c8a1827b-19f0-40f5-9827-9f26f4e7bbf2.gif" width="100%" height="100%" />
   
-<br />
-
   
 Hi, I'm [Misash]() a computer science student  - Perú. I'm a Web3 and New Space enthusiast .
 
@@ -17,43 +15,44 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Haskell](https://img.shields.io/badge/-Haskell-?)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+![Haskell](https://img.shields.io/static/v1?style=for-the-badge&message=Haskell&color=5D4F85&logo=Haskell&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 
-
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Haskell" title="Haskell" width="40px" src="https://adventofhaskell.com/images/haskell.svg">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-|--|--|--|--|
 
 **Libraries and Frameworks**
 
-
-
-<img title="jQuery" alt="jQuery" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png">|<img title="React Native" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-|--|--|--|
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 
 **Cloud**
-<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/344/heroku.png">
-|--|
+
+![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
-|--|--|
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="CLion" alt="Clion" width="40px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/clion-1-logo.png">|<img title="Node Js" alt="Node Js" width="40px" src="https://img.icons8.com/fluency/344/node-js.png">
-|--|--|--|--|--|--|
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![CLion](https://img.shields.io/static/v1?style=for-the-badge&message=CLion&color=000000&logo=CLion&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+
 
 <br /><br /><br />
 
 ## My Github Stats 📈
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Misash&show_icons=true&theme=gotham" alt="Misash" />
 
+<a href="https://www.adamalston.com/">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Misash&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <!-- wi*quL3fcV -->
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misash&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  </a>
 
