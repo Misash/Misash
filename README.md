@@ -45,11 +45,9 @@ These are some of the major technologies that I use or have worked on in the pas
 ![CLion](https://img.shields.io/static/v1?style=for-the-badge&message=CLion&color=000000&logo=CLion&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
-
-<br /><br /><br />
+<br />
 
 ## My Github Stats 📈
-
 <a href="https://www.adamalston.com/">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Misash&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <!-- wi*quL3fcV -->
