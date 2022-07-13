@@ -1,13 +1,10 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" height="3%">
 
-
-
+  <img alt="GIF" src="https://user-images.githubusercontent.com/70419764/178618222-3220c730-8f36-49f8-aeb2-188108d1433a.gif" width="100%" height="100%" />
+  
 <br />
 
-  <img align="right" alt="GIF" src="https://media2.giphy.com/media/d6EHXrJlkd8IDIfdtL/giphy.gif?cid=790b76119eeeef0f54dfc3c91c4d039b9f4e4b50cd4974d8&rid=giphy.gif&ct=g" width="40%" height="40%" />
   
-  
-Hi, I'm [Misash]() a computer science student at Universidad Catolica San Pablo - Perú. I'm a Web3 enthusiast .
+Hi, I'm [Misash]() a computer science student  - Perú. I'm a Web3 and New Space enthusiast .
 
 - 💼 Contact me if you have same interesting!, [email](mailto:aaron.apaza@ucsp.edu.pe) :)
 - 💬 ask me about anything, i am happy to help;
@@ -19,6 +16,16 @@ Hi, I'm [Misash]() a computer science student at Universidad Catolica San Pablo 
 These are some of the major technologies that I use or have worked on in the past:
 
 **Programming Languages**
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Haskell](https://img.shields.io/badge/-Haskell-?)
+
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Haskell" title="Haskell" width="40px" src="https://adventofhaskell.com/images/haskell.svg">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 |--|--|--|--|
