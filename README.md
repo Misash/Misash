@@ -4,7 +4,7 @@
   
 Hi, I'm [Misash]() a computer science student  - Perú. I'm a Web3 and New Space enthusiast .
 
-- 💼 Contact me if you have same interesting!, [email](mailto:aaron.apaza@ucsp.edu.pe) :)
+- 💼 Contact me if you have same interesting!, [email](mailto:) :)
 - 💬 ask me about anything, i am happy to help;
 
 
