@@ -55,6 +55,6 @@ These are some of the major technologies that I use or have worked on in the pas
 
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misash&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a> 
-  
+<!--   
   [![trophy](https://github-profile-trophy.vercel.app/?username=misash)](https://github.com/misash/github-profile-trophy)
- 
+  -->
