@@ -2,8 +2,7 @@
   <img alt="GIF" src="https://user-images.githubusercontent.com/70419764/178626489-c8a1827b-19f0-40f5-9827-9f26f4e7bbf2.gif" width="100%" height="100%" />
   
   
-Hi, I'm [Misash]() an AI Engineer with a passion for developing software, training models, and deploying solutions on cloud platforms.
-Inspired by science fiction, I work to turn these advanced technologies into reality, solving real-world problems with AI.
+Hi, I'm [Misash]() an AI Engineer passionate about building software, training models, and deploying scalable solutions on cloud platforms. I’ve explored second-layer scalability for Ethereum, , and am now focused on LLM quantization and ZK proofs in blockchain. Inspired by science fiction, I work to make advanced technologies solve real-world problems.
 
 - 💼 Contact me if you have same interesting!, [email](mailto:) :)
 - 💬 ask me about anything, i am happy to help;
