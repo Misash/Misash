@@ -74,3 +74,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Misash/Misash/output/snake.svg" alt="Snake animation" />
+
+###
