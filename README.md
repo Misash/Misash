@@ -8,7 +8,7 @@ channels. then i learned to ship, the modern way: 8+ side projects in the last 3
 these days the lab is robotics and physical ai.
 
 some projects i'm proud of:
-- [amarucoin](https://github.com/Cypherpunk-Society/AmaruCoin) — a litecoind fork, made with friends, for friends
+- [amarucoin](https://github.com/Cypherpunk-Society/AmaruCoin) — a litecoin fork, made with friends, for friends
 - portal — scaling, decentralizing, and anonymizing off-chain transactions with payment channels
 - [makerpunks](https://www.producthunt.com/products/makerpunks) — connecting devs with ngos that actually need the help
 - [colabrain](https://buildspace.so/s4/demoday/collabrain) — democratizing stable diffusion training, quiet traction in asia
